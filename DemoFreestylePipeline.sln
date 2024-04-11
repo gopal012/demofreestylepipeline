@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFreestylePipeline", "DemoFreestylePipeline\DemoFreestylePipeline.csproj", "{C976390A-CE26-4A96-81B7-ABD3F74B8EE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest1", "UnitTest1\UnitTest1.csproj", "{EDCF8958-C41C-4186-A74E-9F3A0F481093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C976390A-CE26-4A96-81B7-ABD3F74B8EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C976390A-CE26-4A96-81B7-ABD3F74B8EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C976390A-CE26-4A96-81B7-ABD3F74B8EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCF8958-C41C-4186-A74E-9F3A0F481093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCF8958-C41C-4186-A74E-9F3A0F481093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCF8958-C41C-4186-A74E-9F3A0F481093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCF8958-C41C-4186-A74E-9F3A0F481093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
